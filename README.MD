@@ -50,10 +50,11 @@ terceiros
 - PostgreSQL (básico)
 - NodeJS (básico)
 - Java (básico)
+
 ## Principais Conquistas
 - Primeiro lugar no concurso público para Técnico de Operações no Banco do Brasil -
 
-2015 - BBTS - <a href="https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf" [link] />
+2015 - BBTS - [Link](https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf).
 Duas premiações pelo melhor índice de desempenho no setor de Service Desk N1 -
 2022 - Riachuelo
 Primeiro lugar no processo seletivo interno para Analista de Suporte Jr - 2022 -
