@@ -52,24 +52,16 @@ terceiros
 - Java (básico)
 
 ## Principais Conquistas
-- Primeiro lugar no concurso público para Técnico de Operações no Banco do Brasil -
+- Primeiro lugar no concurso público para Técnico de Operações no Banco do Brasil - 2015 - BBTS - [Link](https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf).
+- Duas premiações pelo melhor índice de desempenho no setor de Service Desk N1 - 2022 - Riachuelo
+- Primeiro lugar no processo seletivo interno para Analista de Suporte Jr - 2022 - Riachuelo
+- Único analista selecionado, entre os não residentes em SP, para trabalhar no evento da CCXP em SP, onde a empresa alcançou o maior montante de vendas em um único dia da história - 2023 - Riachuelo
 
-2015 - BBTS - [Link](https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf).
-Duas premiações pelo melhor índice de desempenho no setor de Service Desk N1 -
-2022 - Riachuelo
-Primeiro lugar no processo seletivo interno para Analista de Suporte Jr - 2022 -
-Riachuelo
-Único analista selecionado, entre os não residentes em SP, para trabalhar no evento
-da CCXP em SP, onde a empresa alcançou o maior montante de vendas em um
-único dia da história - 2023 - Riachuelo
-Formação Acadêmica
-Pós Graduação em Engenharia de Software
-Uniamérica (2023 - 2024)
-Técnico em Eletrônica
-Universidade Federal do RN (2013 - 2015)
-Graduação em Redes de Computadores
-UniNassau (2011 - 2013)
-Celular: 84996222569
-E-mail: jlgurgelfernandes@gmail.com
-LinkedIn- Github
-Rua Bela Vista, São Gonçalo do Amarante/RN
+## Formação Acadêmica
+- Pós Graduação em Engenharia de Software | Uniamérica (2023 - 2024)
+- Técnico em Eletrônica | Universidade Federal do RN (2013 - 2015)
+- Graduação em Redes de Computadores | UniNassau (2011 - 2013)
+### Contatos
+- Celular: 84996222569
+- E-mail: jlgurgelfernandes@gmail.com
+- Cidade/Estado: São Gonçalo do Amarante/RN
