@@ -58,6 +58,7 @@ terceiros
 - Único analista selecionado, entre os não residentes em SP, para trabalhar no evento da CCXP em SP, onde a empresa alcançou o maior montante de vendas em um único dia da história - 2023 - Riachuelo
 
 ## Formação Acadêmica
+- Pós Graduação em Desenvolvimento Full Stack | Uniamérica ( 2024 - Cursando)
 - Pós Graduação em Engenharia de Software | Uniamérica (2023 - 2024)
 - Técnico em Eletrônica | Universidade Federal do RN (2013 - 2015)
 - Graduação em Redes de Computadores | UniNassau (2011 - 2013)
