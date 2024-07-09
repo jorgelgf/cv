@@ -38,7 +38,7 @@ terceiros
 - Automatização básica de backups de banco de dados
 - Condução de treinamentos em cursos livres de nível profissionalizante na área de TI
 
-## Instrutor de Informática | Mil Cursos - 2012 - 2013
+### Instrutor de Informática | Mil Cursos - 2012 - 2013
 - Suporte a infraestrutura computacional da escola
 - Apoio técnico aos conteúdos da plataforma de cursos
 - Elaboração de exercícios educacionais para suporte as disciplinas
