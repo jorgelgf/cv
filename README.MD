@@ -46,17 +46,31 @@ terceiros
 - Elaboração de script para backups da base de dados da Escola
 
 ## Habilidades e Competências
-- Javascript (intermediário)Atendimento ao cliente (intermediário)
-- CSS (intermediário)Jira (básico)
-- HTML (intermediário)Office 365 (básico)
-- React (básico)Redes de computadores (básico)
-- Sass (básico)Meraki (básico)
-- Prisma (básico)MDM (básico)
-- Native (básico)Linux (intermediário)
-- MySQL (básico)Windows (intermediário)
+### Desenvolvimento TI
+- HTML (intermediário)
+- CSS (intermediário)
+- React (Intermediário)
+- Sass (básico)
+- Prisma (básico)
+- Native (básico)
+- MySQL (básico)
 - PostgreSQL (básico)
-- NodeJS (básico)
+- NodeJS (intermediário)
+- Javascript (intermediário)
 - Java (básico)
+- Python (básico)
+- C++ (básico)
+- Postman/Insomnia (básico)
+
+### Suporte TI
+- Redes de computadores (intermediário)
+- Windows (intermediário)
+- Meraki (básico)
+- Jira (básico)
+- Office 365 (básico)
+- MDM (básico)
+- Linux (intermediário)
+- Atendimento (intermediário)
 
 ## Principais Conquistas
 - Primeiro lugar no concurso público para Técnico de Operações no Banco do Brasil - 2015 - BBTS - [Link](https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf).
