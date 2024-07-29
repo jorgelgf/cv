@@ -49,7 +49,8 @@ terceiros
 ### Desenvolvimento TI
 - HTML (intermediário)
 - CSS (intermediário)
-- React (Intermediário)
+- React (intermediário)
+- React (básico)
 - Sass (básico)
 - Prisma (básico)
 - Native (básico)
