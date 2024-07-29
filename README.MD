@@ -47,31 +47,31 @@ terceiros
 
 ## Habilidades e Competências
 ### Desenvolvimento TI
-- HTML (intermediário)
-- CSS (intermediário)
-- React (intermediário)
-- React (básico)
-- Sass (básico)
-- Prisma (básico)
-- Native (básico)
-- MySQL (básico)
-- PostgreSQL (básico)
-- NodeJS (intermediário)
-- Javascript (intermediário)
-- Java (básico)
-- Python (básico)
-- C++ (básico)
-- Postman/Insomnia (básico)
+- HTML 
+- CSS 
+- React
+- React
+- Sass 
+- Prisma
+- Native
+- MySQL 
+- PostgreSQL
+- NodeJS
+- Javascript
+- Java
+- Python
+- C++
+- Postman/Insomnia
 
 ### Suporte TI
-- Redes de computadores (intermediário)
-- Windows (intermediário)
-- Meraki (básico)
-- Jira (básico)
-- Office 365 (básico)
-- MDM (básico)
-- Linux (intermediário)
-- Atendimento (intermediário)
+- Redes de computadores
+- Windows 
+- Meraki
+- Jira
+- Office 365
+- MDM
+- Linux
+- Atendimento
 
 ## Principais Conquistas
 - Primeiro lugar no concurso público para Técnico de Operações no Banco do Brasil - 2015 - BBTS - [Link](https://www.bbts.com.br/files/concursos/2015/2015_lista_aprovados_medio.pdf).
