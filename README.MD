@@ -66,11 +66,11 @@ terceiros
 ### Suporte TI
 - Redes de computadores
 - Windows 
+- Linux
 - Meraki
 - Jira
 - Office 365
 - MDM
-- Linux
 - Atendimento
 
 ## Principais Conquistas
